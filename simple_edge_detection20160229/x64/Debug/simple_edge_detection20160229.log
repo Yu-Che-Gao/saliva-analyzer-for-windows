@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  simple_edge_detection20160229.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  simple_edge_detection20160229.vcxproj -> D:\實驗室資料\科技部計畫\我的程式碼\simple_edge_detection20160229\x64\Debug\simple_edge_detection20160229.exe
+  simple_edge_detection20160229.vcxproj -> D:\實驗室資料\科技部計畫\我的程式碼\simple_edge_detection20160229\x64\Debug\simple_edge_detection20160229.pdb (Full PDB)
